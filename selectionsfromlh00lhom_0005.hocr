@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./selectionsfromlh00lhom_0005.png"; bbox 0 0 2035 3191; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 705 2239 1580 2401">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 705 2239 1580 2401">
+     <span class='ocr_line' id='line_1_1' title="bbox 715 2239 1470 2307; baseline 0.011 -8"><span class='ocrx_word' id='word_1_1' title='bbox 715 2296 717 2299; x_wconf 83' lang='grc'>.</span> <span class='ocrx_word' id='word_1_2' title='bbox 828 2239 1087 2300; x_wconf 64' lang='lat' dir='ltr'>somn</span> <span class='ocrx_word' id='word_1_3' title='bbox 1107 2248 1470 2307; x_wconf 63' lang='grc' dir='ltr'>υΝινΕΗει-ΓΥ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 705 2323 1580 2401; baseline 0.005 -17"><span class='ocrx_word' id='word_1_4' title='bbox 705 2323 1002 2401; x_wconf 61' lang='lat' dir='ltr'>§gg-1535</span> <span class='ocrx_word' id='word_1_5' title='bbox 1025 2331 1108 2382; x_wconf 65' lang='lat' dir='ltr'>ef</span> <span class='ocrx_word' id='word_1_6' title='bbox 1137 2335 1392 2388; x_wconf 62' lang='lat' dir='ltr'>msam</span> <span class='ocrx_word' id='word_1_7' title='bbox 1420 2343 1580 2388; x_wconf 57' lang='lat' dir='ltr'>mn,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1007 2413 1279 2490">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1007 2413 1279 2490">
+     <span class='ocr_line' id='line_1_3' title="bbox 1007 2413 1279 2490; baseline -0.015 2"><span class='ocrx_word' id='word_1_8' title='bbox 1007 2413 1279 2490; x_wconf 64' lang='lat' dir='ltr'>Q!</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
